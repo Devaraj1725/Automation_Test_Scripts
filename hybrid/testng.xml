@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="practice.DataBase"/>
+      <class name="testScript.Ts1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
